@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "none",
+        "target": "es6",
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "noEmit": false,
+        "skipLibCheck": true,
+        "ignoreDeprecations": "6.0"
+    }
+}

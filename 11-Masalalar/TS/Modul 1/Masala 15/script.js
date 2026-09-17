@@ -1,0 +1,14 @@
+"use strict";
+// [Mavzu: Chiziqli algoritmlar]
+/*
+15. To'rt xonali son berilgan. Uning raqamlari ko'paytmasini hisoblovchi
+dastur tuzilsin.
+*/
+{
+    let sonn = Number(prompt("To'rt xonali sonni kiriting: "));
+    let minglar = (sonn / 1000) | 0;
+    let yuzlar = ((sonn % 1000) / 100) | 0;
+    let onlar = ((sonn % 100) / 10) | 0;
+    let birliklar = sonn % 10;
+    console.log("Natija: " + minglar * yuzlar * onlar * birliklar);
+}
