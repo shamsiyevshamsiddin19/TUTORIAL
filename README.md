@@ -10,7 +10,7 @@ Terminalda birinchi buyruqdan — serverga chiqarilgan Telegram botgacha.
 <br/>
 
 ![Modullar](https://img.shields.io/badge/Modullar-10-2563eb?style=for-the-badge)
-![Darslar](https://img.shields.io/badge/Darslar-383-16a34a?style=for-the-badge)
+![Darslar](https://img.shields.io/badge/Darslar-393-16a34a?style=for-the-badge)
 ![Til](https://img.shields.io/badge/Til-Uzbek-d97706?style=for-the-badge)
 ![Format](https://img.shields.io/badge/Format-Markdown-9333ea?style=for-the-badge)
 
@@ -74,7 +74,7 @@ graph LR
 | 🐳 | **[Docker](05-Docker/)** | 7 | 18 | Image/konteyner, Dockerfile, Compose, multi-stage, xavfsizlik |
 | 🐘 | **[PostgreSQL](06-PostgreSQL/)** | 31 | 95 | SELECT'dan MVCC, WAL, query planner va replikatsiyagacha |
 | 🌐 | **[Django](07-Django/)** | 6 qism | 95 | Asosiy kurs · bot integratsiya · kod o'qish · kutubxonalar · std-lib |
-| ⚡ | **[FastAPI](08-FastAPI/)** | 8 | 22 | Pydantic, DI, async DB, JWT, WebSocket, production deploy |
+| ⚡ | **[FastAPI](08-FastAPI/)** | 8 + amaliy | 32 | Pydantic, DI, async DB, JWT, WebSocket, Redis, Docker, Blog API deploy |
 | 🤖 | **[Aiogram](09-Aiogram/)** | — | 18 | Telegram bot: handler, FSM, middleware, webhook, To-Do bot |
 | 🧩 | **[Masalalar](10-Masalalar/)** | 2 til | 320+ | Python va TypeScript amaliy masalalari va yechimlari |
 

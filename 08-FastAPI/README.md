@@ -2,7 +2,7 @@
 
 # ⚡ FastAPI
 
-**Modul 08** · 8 bo'lim · 22 dars
+**Modul 08** · 8 bo'lim · 22 dars + 20 kunlik amaliy darslik (10 modul)
 
 <sub>[⬅ 🌐 Django](../07-Django/) &nbsp;·&nbsp; [🏠 Bosh sahifa](../README.md) &nbsp;·&nbsp; [🤖 Aiogram ➡](../09-Aiogram/)</sub>
 
@@ -77,6 +77,28 @@
 | 7.3 | CI/CD bilan GitHub Actions va yakuniy real loyiha | 7.3-cicd-github-actions-yakuniy-loyiha.md |
 
 ---
+
+
+---
+
+## 🚀 20 Kunlik Amaliy Intensiv Kurs (Blog API)
+
+FastAPI'ni noldan to'liq production darajasidagi **Blog API** yaratish orqali o'rganuvchi 20 kunlik intensiv praktikum (har 2 kun = bitta modul).
+
+👉 **[20 Kunlik Amaliy Darslik Mundarijasiga o'tish](20-kunlik-amaliy-darslik/00-darslik-haqida-va-mundarija.md)**
+
+| Kunlar | Mavzu | Fayl |
+|:---:|:---|:---|
+| **01-02 Kun** | FastAPI: Boshlanish va Asoslar (Routing, Pydantic, .env) | [01-02-kun-fastapi-asoslari.md](20-kunlik-amaliy-darslik/01-02-kun-fastapi-asoslari.md) |
+| **03-04 Kun** | SQLAlchemy va PostgreSQL (CRUD, Pagination, Search) | [03-04-kun-sqlalchemy-va-postgresql.md](20-kunlik-amaliy-darslik/03-04-kun-sqlalchemy-va-postgresql.md) |
+| **05-06 Kun** | Autentifikatsiya — JWT Token va Parol xeshlash | [05-06-kun-autentifikatsiya-jwt-token.md](20-kunlik-amaliy-darslik/05-06-kun-autentifikatsiya-jwt-token.md) |
+| **07-08 Kun** | Alembic — Database Migration Tizimi | [07-08-kun-alembic-migratsiyalar.md](20-kunlik-amaliy-darslik/07-08-kun-alembic-migratsiyalar.md) |
+| **09-10 Kun** | CORS va Deployment (Gunicorn, Uvicorn, Render/Cloud) | [09-10-kun-cors-va-deployment.md](20-kunlik-amaliy-darslik/09-10-kun-cors-va-deployment.md) |
+| **11-12 Kun** | Pytest bilan Testing — Ishonchli API | [11-12-kun-pytest-bilan-testing.md](20-kunlik-amaliy-darslik/11-12-kun-pytest-bilan-testing.md) |
+| **13-14 Kun** | Real-Time va Asinxron Vazifalar (WebSockets & Background Tasks) | [13-14-kun-websockets-va-background-tasks.md](20-kunlik-amaliy-darslik/13-14-kun-websockets-va-background-tasks.md) |
+| **15-16 Kun** | Redis va Caching — 10x Tezlik va Rate Limiting | [15-16-kun-redis-va-caching.md](20-kunlik-amaliy-darslik/15-16-kun-redis-va-caching.md) |
+| **17-18 Kun** | Docker va Docker Compose (Multi-container Stack) | [17-18-kun-docker-va-konteynerlashtirish.md](20-kunlik-amaliy-darslik/17-18-kun-docker-va-konteynerlashtirish.md) |
+| **19-20 Kun** | Yakuniy Katta Loyiha — Blog API (Barcha tizimlar birlashadi) | [19-20-kun-yakuniy-loyiha-blog-api.md](20-kunlik-amaliy-darslik/19-20-kun-yakuniy-loyiha-blog-api.md) |
 
 ## Umumiy ma'lumot
 

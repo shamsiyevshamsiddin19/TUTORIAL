@@ -41,7 +41,7 @@ flowchart TD
     ROOT --> M05["🐳 05-Docker<br/><small>7 bo'lim · 18 dars</small>"]
     ROOT --> M06["🐘 06-PostgreSQL<br/><small>31 bo'lim · 95 dars</small>"]
     ROOT --> M07["🌐 07-Django<br/><small>6 qism · 95 dars</small>"]
-    ROOT --> M08["⚡ 08-FastAPI<br/><small>8 bo'lim · 22 dars</small>"]
+    ROOT --> M08["⚡ 08-FastAPI<br/><small>8 bo'lim · 22 dars + 20 kunlik amaliyot</small>"]
     ROOT --> M09["🤖 09-Aiogram<br/><small>18 dars</small>"]
     ROOT --> M10["🧩 10-Masalalar<br/><small>Python · TypeScript</small>"]
     ROOT --> DOCS["📄 docs/<br/><small>ARCHITECTURE.md</small>"]
