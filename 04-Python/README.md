@@ -162,6 +162,18 @@ _Bu qismdan boshlab savol o'zgaradi: endi "Python'da qanday yozish kerak" emas, 
 | — | Backend bilimlar ro'yxati (Roadmap & Savollar) | [BACKEND_BILIMLAR_ROYXATI.md](python-naqshlari/BACKEND_BILIMLAR_ROYXATI.md) |
 | — | Python tushunchalari daraxti (Mindmap & Gotchas) | [python_tushunchalari_daraxti.md](python-naqshlari/python_tushunchalari_daraxti.md) |
 
+## Python dizayn naqshlari (GoF Design Patterns)
+
+_GoF (Gang of Four) klassik dizayn naqshlarini Python'da (pythonic uslubda) chuqur o'rgatuvchi alohida 22 darslik modul: [python-dizayn-naqshlari/](python-dizayn-naqshlari/)._
+
+| Bo'lim | Mavzu |
+|---|---|
+| 01-bob | Kirish va tamoyillar (GoF tarixi, SOLID) |
+| 02-bob | Yaratuvchi naqshlar (Singleton, Factory Method, Abstract Factory, Builder, Prototype) |
+| 03-bob | Tuzilma naqshlari (Adapter, Facade, Composite, Proxy, Decorator naqsh) |
+| 04-bob | Xatti-harakat naqshlari (Strategy, Observer, Command, Iterator naqsh, State, Template Method) |
+| 05-bob | Pythonga xos naqshlar (Context Manager, Mixin, Dependency Injection) + yakuniy loyiha |
+
 ---
 
 
