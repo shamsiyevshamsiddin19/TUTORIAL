@@ -154,7 +154,16 @@ _Bu qismdan boshlab savol o'zgaradi: endi "Python'da qanday yozish kerak" emas, 
 | 14.1 | Birinchi C kengaytmangiz: `Python.h` va `PyObject*` | 14.1-birinchi-c-kengaytma.md |
 | 14.2 | Kengaytmani qurish, import qilish va xatolarni boshqarish | 14.2-kengaytma-qurish-xatolar.md |
 
+## Python naqshlari va arxitektura
+
+| № | Mavzu | Fayl |
+|---|---|---|
+| — | Python naqshlari umumiy qo'llanma | [README.md](python-naqshlari/README.md) |
+| — | Backend bilimlar ro'yxati (Roadmap & Savollar) | [BACKEND_BILIMLAR_ROYXATI.md](python-naqshlari/BACKEND_BILIMLAR_ROYXATI.md) |
+| — | Python tushunchalari daraxti (Mindmap & Gotchas) | [python_tushunchalari_daraxti.md](python-naqshlari/python_tushunchalari_daraxti.md) |
+
 ---
+
 
 ## Umumiy ma'lumot
 
